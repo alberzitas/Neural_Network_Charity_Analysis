@@ -2,7 +2,7 @@
 
 ## Overview and Purpose
 
-AlphabetSoup helps organizations protect the environment and improve peoples lives across the world. The purpose of this project is to analyze the effects of the organization’s donations to various charities and determine which are worth donating to and which are too high risk so that money is not wasted on the latter. For this, we will use a neural network and the python TensorFlow library to produce a clear result. 
+AlphabetSoup is dedicated to enhancing global well-being by supporting environmental conservation and improving people's lives. The objective of this project is to assess the impact of the organization's donations to different charities and identify the ones that are worthy of support, while avoiding high-risk options to prevent wastage of resources. To accomplish this, we will leverage a neural network implemented in Python using the TensorFlow library, aiming to provide concise and informative outcomes.
 
 ## Results
 
