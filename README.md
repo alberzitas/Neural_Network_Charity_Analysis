@@ -36,4 +36,4 @@ I tried to increase the number of neurons and changing the activation functions.
 
 ## Summary
 
-The results show that using the ReLu and sigmoid functions yielded the an accuracy of 72.9% using various numbers of neurons and layers. I would recommend using a different model if different results are desired.
+The analysis reveals that by employing the ReLU and sigmoid functions, a noteworthy accuracy of 72.9% was achieved through the exploration of diverse configurations of neurons and layers. Should alternative outcomes be sought, I would highly recommend exploring alternative models to attain desired results.
